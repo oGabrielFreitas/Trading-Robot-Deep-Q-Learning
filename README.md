@@ -8,4 +8,4 @@ This code has a GPL License.
 
 In my YouTube channel I explain how the code works, line by line.
 
-🔗[YouTube Channel Link](https://www.youtube.com/channel/UCyBV38-6vCe7MBVXD5yxOOw)
+🔗[YouTube Channel Link](https://youtu.be/Q2tEqNfgIXM)
